@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^api$
+^data-raw$
+^docs$
+^pkgdown$
+^_pkgdown\.yml$
+^temp$
+^shiny$
+^shinyapp$
+^app$
